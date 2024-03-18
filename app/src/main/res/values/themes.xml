@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Kalema" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#FF5722</item>
+        <item name="android:statusBarColor">#BF4119</item>
+    </style>
+
+    <style name="Theme.Kalema" parent="Base.Theme.Kalema" />
+</resources>
